@@ -1,0 +1,7 @@
+MLRD SSH connection - 03/2024
+
+# aschil@ash3-mlrd-nvidia01
+> ssh -i .ssh/id_rsa aschil@10.137.224.83
+
+# aschil@ash3-mlrd-nvidia02
+> ssh -i .ssh/id_rsa aschil@10.137.224.84
